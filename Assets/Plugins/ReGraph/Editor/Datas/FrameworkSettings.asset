@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b59bafde2614bbeac90dd4e93d3ff36, type: 3}
+  m_Name: FrameworkSettings
+  m_EditorClassIdentifier: 
+  tweenDataRemoveAtSaveScene: 1
+  fpPlayerController: {fileID: 4080005802794206696, guid: 360f9b5f748e44566ba3b7c995f65ead,
+    type: 3}
+  tpPlayerController: {fileID: 4011511629871908059, guid: f0b6f8152d076468a91275469952fa96,
+    type: 3}
+  tdPlayerController: {fileID: 4011511629871908059, guid: 4e6d41cba07b245d596af3f9cdb8c217,
+    type: 3}

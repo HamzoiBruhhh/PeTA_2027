@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09f8118328df46c5b57f962d042fe437, type: 3}
+  m_Name: RuntimeSettings
+  m_EditorClassIdentifier: 
+  uniqueId: Sx-AbGXGSEK2jhN6JCq_DQ
+  showHints: 0
+  graphManager: {fileID: 2399840407429026664, guid: 43e75fd31850b4aeb8ed93864a289125, type: 3}
+  skipDebugNode: 0
+  deepLogging: 0
+  outlineShader: {fileID: 4800000, guid: 86d919ad23cfc3f41a22e301207027bc, type: 3}
+  outlineBufferShader: {fileID: 4800000, guid: 1d468569140a4b645ab73ded30c32ab4, type: 3}
+  dialogCanvas: {fileID: 3092180158227367621, guid: 7528d5d8ef4a84bca9ce4a6adc9d6f14, type: 3}
+  inventoryCanvas: {fileID: 2693830910219130295, guid: fb65d3737987f4ced9ef32daba739f75, type: 3}
+  floatText: {fileID: 2490498572900541250, guid: 6bd4c1e589a564d7580d28e2d25bbd1c, type: 3}
+  speechBubble: {fileID: 2490498572900541250, guid: 1a7fa9c634c6f4e67a619a183c07f7de, type: 3}
+  meleeScanCircleAngleStep: 5
+  rangedScanCircleAngleStep: 15
+  dropScanCircleAngleStep: 5
+  ignoreFOWLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  itemManager: {fileID: 11400000, guid: 6697db0ac66d341328989a4650b55b38, type: 2}
+  dropInvBehaviour: {fileID: 11400000, guid: 1d3947495c6fd44108fa2422a7a516a0, type: 2}
+  dropInvGo: {fileID: 703707471616623122, guid: eb9317f6498a14dbf88c76b193628e49, type: 3}
+  removeAtDeleteNode: 1
+  tweenDataSaveFolder: Assets/Descent/Data/TweenData
+  itemDataSaveFolder: Assets/Data/ItemData

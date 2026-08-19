@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45fe4305dd4f7441ab3d3d20fe25fbe5, type: 3}
+  m_Name: DefaultActionNameList
+  m_EditorClassIdentifier: 
+  actionNames:
+  - actionName: Activate
+    actionChoice: {fileID: 11400000, guid: 39a11f4b939ab4ff8af374d902bed8b9, type: 2}
+  - actionName: Deactivate
+    actionChoice: {fileID: 11400000, guid: 7569af3c215e64dd08c3adfe421420be, type: 2}
+  - actionName: Start
+    actionChoice: {fileID: 11400000, guid: 6f5ab1df4833e4b74906a94f8a53982c, type: 2}
+  - actionName: End
+    actionChoice: {fileID: 11400000, guid: 1a8ac9216f6714c839078221478d4fd2, type: 2}
+  - actionName: Begin
+    actionChoice: {fileID: 11400000, guid: 43f40daa8c9b4433187aabcde1567e8a, type: 2}
+  - actionName: Finish
+    actionChoice: {fileID: 11400000, guid: 9e4d052f02db5453d925210eda682bda, type: 2}
+  - actionName: Stop
+    actionChoice: {fileID: 11400000, guid: 5caae3015b9634ed7b65535be2880cb4, type: 2}
+  - actionName: Resume
+    actionChoice: {fileID: 11400000, guid: c8de29691a43d475990a2f08319435f5, type: 2}
+  - actionName: Enable
+    actionChoice: {fileID: 11400000, guid: e58b01db66019419ea3dcab8e8bc5d1c, type: 2}
+  - actionName: Disable
+    actionChoice: {fileID: 11400000, guid: 2c53074f5e0d24d54b79f0196e5b0ea8, type: 2}
+  - actionName: Add
+    actionChoice: {fileID: 11400000, guid: 297b1b051900247078a0c934f9a53e4d, type: 2}
+  - actionName: Remove
+    actionChoice: {fileID: 11400000, guid: c88ac71f5055146a18d79054110356ea, type: 2}
+  - actionName: Enter
+    actionChoice: {fileID: 11400000, guid: c525cf38bc6b448999848260bbbaa36e, type: 2}
+  - actionName: Exit
+    actionChoice: {fileID: 11400000, guid: 5b2ddba2b5b2c4272a57901483acdfc7, type: 2}
+  - actionName: Show
+    actionChoice: {fileID: 11400000, guid: 97187384bc9fd48339811b104c90ac97, type: 2}
+  - actionName: Hide
+    actionChoice: {fileID: 11400000, guid: bfded357b83c7493f8631bee162697d6, type: 2}
+  - actionName: None
+    actionChoice: {fileID: 11400000, guid: ff67f3200e1c34b87a4a124eb3ac36f2, type: 2}
+  - actionName: Everything
+    actionChoice: {fileID: 11400000, guid: 73e244aa5b7fb4f43999c6aad0db6b68, type: 2}
+  - actionName: Reset
+    actionChoice: {fileID: 11400000, guid: b2381fe8ca7cf48a38191500348a0dbe, type: 2}
+  - actionName: Pause
+    actionChoice: {fileID: 11400000, guid: d2f0911280ea941b593e1630aeea0210, type: 2}
+  - actionName: Unpause
+    actionChoice: {fileID: 11400000, guid: f11c12329e5af42f39a832f3f0da8158, type: 2}
+  - actionName: Plus
+    actionChoice: {fileID: 11400000, guid: 3b21d678045124cd38f995c8c115aa5b, type: 2}
+  - actionName: Minus
+    actionChoice: {fileID: 11400000, guid: f91996dc975b942049f57b1354db0a7d, type: 2}
+  - actionName: Spawn
+    actionChoice: {fileID: 11400000, guid: 3c7f3e3b88a7f4aeaacc83c1775fe443, type: 2}
+  - actionName: Destroy
+    actionChoice: {fileID: 11400000, guid: b6d4d91197af540a8994941260723e54, type: 2}
+  - actionName: Update
+    actionChoice: {fileID: 11400000, guid: aab764702195343b782a358e63928649, type: 2}
+  - actionName: Cancel
+    actionChoice: {fileID: 11400000, guid: 4a0bc904bc8234df29fa9b76d6a15c87, type: 2}
+  - actionName: Init
+    actionChoice: {fileID: 11400000, guid: 912a18f93e70e4383bd9c31b13588dc2, type: 2}
+  - actionName: Uninit
+    actionChoice: {fileID: 11400000, guid: a88e66d9180fa4c79aa9c2589ce597e7, type: 2}
+  - actionName: Awake
+    actionChoice: {fileID: 11400000, guid: 2c1171630f31442f0807277ba5886fad, type: 2}
+  - actionName: Tick
+    actionChoice: {fileID: 11400000, guid: f9ac04e616c0949ebb419dec0ba37a18, type: 2}
+  - actionName: UI
+    actionChoice: {fileID: 11400000, guid: a73bc86ac2b754179aef36191d123219, type: 2}
+  - actionName: Refresh
+    actionChoice: {fileID: 11400000, guid: 9cbcdfe67f558416ca52493e6988a87a, type: 2}
+  - actionName: Get
+    actionChoice: {fileID: 11400000, guid: 95ac74d6e723e44ff8abd6fe2848d2dc, type: 2}
+  - actionName: Set
+    actionChoice: {fileID: 11400000, guid: 90be6bbd899b440dcbc5f7b296bee962, type: 2}
+  - actionName: Save
+    actionChoice: {fileID: 11400000, guid: d6b0a0cbd915d4d91b7332ff64681392, type: 2}
+  - actionName: Load
+    actionChoice: {fileID: 11400000, guid: cece539cc754044fd864914965bcae70, type: 2}
+  - actionName: Submit
+    actionChoice: {fileID: 11400000, guid: 66ea6b2d72bca42548b5bdac0010f3dd, type: 2}
+  - actionName: Back
+    actionChoice: {fileID: 11400000, guid: ca7eac98238aa430592c31021721d03c, type: 2}
+  - actionName: Create
+    actionChoice: {fileID: 11400000, guid: fbf8d0b28260a4c3d8b3fce9768ba9cd, type: 2}
+  - actionName: Player
+    actionChoice: {fileID: 11400000, guid: 45965506e49474adaa056f0668154537, type: 2}
+  - actionName: Enemy
+    actionChoice: {fileID: 11400000, guid: 6ab8204bfad0e4ef4927e74ab8bc0905, type: 2}
+  actionName:
+  - Activate
+  - Deactivate
+  - Start
+  - End
+  - Begin
+  - Finish
+  - Stop
+  - Resume
+  - Enable
+  - Disable
+  - Add
+  - Remove
+  - Enter
+  - Exit
+  - Show
+  - Hide
+  - None
+  - Everything
+  - Reset
+  - Pause
+  - Unpause
+  - Plus
+  - Minus
+  - Spawn
+  - Destroy
+  - Update
+  - Cancel
+  - Init
+  - Uninit
+  - Awake
+  - Tick
+  - UI
+  - Refresh
+  - Get
+  - Set
+  - Save
+  - Load
+  - Submit
+  - Back
+  - Create
+  - Player
+  - Enemy

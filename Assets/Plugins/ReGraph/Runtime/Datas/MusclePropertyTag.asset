@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fabb2621e3374e1bac711c6b84eb7e47, type: 3}
+  m_Name: MusclePropertyTag
+  m_EditorClassIdentifier: 
+  tags:
+  - Melee Engage Amount
+  - Melee Engage Distance
+  - Melee Standby Distance
+  - Melee Scan Limit
+  - Melee Scan Duration
+  - Melee Single Approaching
+  - Melee Raycast Detection
+  - Melee Cooldown Type
+  - Melee Damage Pack
+  - Melee Use Pre-Attack Stat
+  - Melee Missed Range
+  - Ranged Linear Detection
+  - Ranged Linear Detect Size
+  - Ranged Cooldown Type
+  - Ranged Projectile
+  - Ranged Standby Type
+  - Ranged Scan Limit
+  - Ranged Scan Duration
+  - Ranged Range Offset
+  - Ranged Always Face Target
+  - Ranged Use Pre-Attack Stat
+  - Ranged Melee On Engage
+  - Get Melee Point Fruitless Action
+  - Go Toward Attack Fruitless Action
+  - Go Standby Attack Fruitless Action
+  - Go Melee Attack Fruitless Action
+  - Ready Melee Fruitless Action
+  - Ready Ranged Fruitless Action
+  - 
+  - 
+  - 
+  - 
